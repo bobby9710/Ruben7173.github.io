@@ -7,7 +7,7 @@
 
 :root {
 	/* background image URL */
-	--background-image: url('https://images.wallpaperscraft.com/image/forest_fog_sunlight_126926_3840x2160.jpg') center/cover no-repeat;
+	--background-image: url('https://i.pinimg.com/originals/7c/f4/9e/7cf49edfe8137a7098a30154a6fa477d.gif') center/cover no-repeat;
 	/* Transparency */
     --transparency-level: rgba(0,0,0,0.10); 
 	/* transparency of top windows bar works different from the top one for some reason you have to try different values to match transparecy (aprox value is top value x 3 = result) */
